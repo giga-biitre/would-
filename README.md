@@ -36,7 +36,7 @@ Have I run too far to get home? Yeah<br></br>
 Have I gone?<br></br>
 Left you here alone<br></br>
 If I <b>would</b>, could you?<br></br>
-  <img src="alice in chains.png"><br></br>
+  <img src="[alice in chains.png](https://www.seekpng.com/png/full/146-1469042_chains-vector-logo-alice-in-chains-burt.png)"><br></br>
   
   <audio src="Alice In Chains - Would (Official HD Video).mp4" controls></audio>
   
